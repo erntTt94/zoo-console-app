@@ -4,7 +4,7 @@ Simple console application in C# for managing a zoo (keepers & animals).
 
 ## Demo
 
-![Zoo App Demo](docs/preview.gif)
+![Zoo App Demo](Zoo/docs/preview.gif)
 
 ## Features
 - Add / Remove / Update ZooKeepers
